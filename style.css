@@ -20,3 +20,10 @@ figcaption {
   margin: 0 auto;
 }
 
+#details {
+  display: block;
+}
+
+#details div {
+  float: left;
+}
