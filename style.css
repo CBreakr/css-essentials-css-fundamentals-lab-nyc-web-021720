@@ -11,6 +11,10 @@ nav a {
   background-color: #CCC;
 }
 
+figcaption {
+  font-size: smaller;
+}
+
 #featured-property p {
   width: 800px;
   margin: 0 auto;
